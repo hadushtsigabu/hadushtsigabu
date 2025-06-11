@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadush Tsigabu
 
-<!--
-**hadushtsigabu/hadushtsigabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** who loves building scalable backend systems with **JavaScript**, **Express.js**, and **MongoDB**. I also explore the frontend world using **React**, and I have a basic understanding of **Python**, **Java**, and **Dart**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Backend
+- 🟨 JavaScript (Node.js)
+- 🚀 Express.js
+- 🍃 MongoDB
+
+### Frontend
+- ⚛️ React (Basic experience)
+
+### Others
+- 🐍 Python (Basic knowledge)
+- ☕ Java (Basic knowledge)
+- 🎯 Dart (Basic knowledge)
+- 🔧 Git & GitHub
+
+---
+
+## 🚀 What I'm Working On
+
+- Developing full-stack web applications  
+- Sharpening my frontend skills with React  
+- Learning advanced backend patterns and best practices
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [https://github.com/hadushtsigabu](https://github.com/hadushtsigabu)
+
+---
+
+## 📈 GitHub Stats
+
+![Hadush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadushtsigabu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadushtsigabu&layout=compact&theme=radical)
