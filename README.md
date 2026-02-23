@@ -1,65 +1,69 @@
 # 👋 Hi, I'm Hadush Tsigabu
 
-I'm a **Web Developer** who loves building scalable backend systems with **JavaScript**, **Express.js**, and **MongoDB**. I also explore the frontend world using **React**, and I have a basic understanding of **Python**, **Java**, and **Dart**.
+I'm a **Backend Developer** and 5th-year IT student at Mekelle Institute of Technology (MIT). I specialize in building scalable backend systems using **Node.js**, **Express.js**, and **MongoDB**. My professional experience includes developing core features for high-traffic platforms like **Sheqlee**, focusing on secure APIs and complex data modeling.
 
 ---
 
 ## 💻 Tech Stack
 
 ### Backend
-- 🟨 JavaScript (Node.js)
-- 🚀 Express.js
-- 🍃 MongoDB
+- 🟨 **JavaScript (Node.js)** – Professional API development
+- 🚀 **Express.js** – Advanced REST API design
+- 🍃 **MongoDB** – Data modeling and optimization
 
 ### Frontend
-- ⚛️ React (Basic experience)
+- ⚛️ **React.js** – Building responsive user interfaces
 
 ### Others
-- 🐍 Python (Basic knowledge)
-- ☕ Java (Basic knowledge)
-- 🎯 Dart (Basic knowledge)
-- 🔧 Git & GitHub
+- 🐍 Python | ☕ Java | 🎯 Dart
+- 🔧 Git & GitHub | 📮 Postman | 🖥️ VS Code
 
 ---
 
 ## 🔧 Backend Core Skills & Concepts
 
-- ✅ **RESTful API Design** – Clean, scalable, and well-documented API endpoints  
-- 🔒 **Authentication & Authorization** – Using JWT, session-based auth, and role-based access control  
-- 📦 **Database Design** – MongoDB data modeling, schema validation, and indexing  
-- 🚀 **Server & Routing Logic** – Efficient routing with Express middleware and modular controllers  
-- 🛠 **Error Handling & Logging** – Centralized error handlers and request/response monitoring  
-- 📂 **Project Structure** – Organized MVC pattern or modular folder structure for maintainability  
-- ⚙️ **Environment Management** – `.env` configurations for local/dev/prod environments  
-- 🔄 **Async Handling** – Promises, async/await, and avoiding callback hell  
-- 📁 **File Uploads & Storage** – Handling multipart/form-data and secure uploads  
+- ✅ **RESTful API Design** – Scalable and well-documented endpoints
+- 🔒 **Security** – Authentication, Authorization (JWT), and role-based access control
+- 📦 **Database Architecture** – Schema validation and efficient indexing in MongoDB
+- 🚀 **Middleware Logic** – Custom Express middleware for logging and error handling
+- 📂 **Architecture** – Clean MVC (Model-View-Controller) design patterns
+- 🔄 **Async Programming** – High-performance logic using Async/Await
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Professional Project
 
-- Developing full-stack web applications  
-- Sharpening my frontend skills with React  
-- Learning advanced backend patterns and best practices
+### [🔗 Sheqlee Platform](https://sheqlee.com)
+
+ **Professional Backend Developer**
+- **Core Contributions**: Developed backend architecture to support Ethiopia’s premier freelance and job marketplace.
+- **Search & Filtering**: Implemented advanced `ApiFeatures` to allow complex searching by company, category, and job specifications.
+- **Data Integrity**: Managed MongoDB schemas for diverse user roles, including freelancers, companies, and administrators.
+- **Impact**: Enhanced the platform's ability to connect skilled professionals with affordable project opportunities.
 
 ---
 
-## 🧪 Sample Backend Project
+## 🧪 Other Projects
 
-### [🔗 Xperts Money Transfer](https://github.com/hadushtsigabu/Xperts-money-transfer)
+### [🔗 Xpert Money Transfer](https://xpertsmoneytransfer.netlify.app/)
+> **Full-Stack Project**
+> A digital money transfer platform featuring secure transaction processing and role-based access. Built with **Node.js**, **Express**, and **React**.
 
-> A full-stack money transfer platform with admin and client dashboards. Backend built with **Node.js**, **Express.js**, and **MongoDB**, featuring user authentication, role-based access, and transaction management.
+### [🔗 LearnGeez](https://github.com/hadushtsigabu)
+> **Educational Platform**
+> A language learning tool for Geez, featuring progress tracking and content delivery via a custom-built REST API.
 
 ---
 
 ## 📫 Let's Connect
 
-- GitHub: [https://github.com/hadushtsigabu](https://github.com/hadushtsigabu)
+- **Email**: Hadushtsigabu11@gmail.com
+- **Location**: Mekelle, Ethiopia
+- **GitHub**: https://github.com/hadushtsigabu
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Hadush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadushtsigabu&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadushtsigabu&layout=compact&theme=radical)
