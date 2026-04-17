@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Hadush Tsigabu
 
-I'm a **Backend Developer** and 5th-year IT student at Mekelle Institute of Technology (MIT). I specialize in building scalable backend systems using **Node.js**, **Express.js**, and **MongoDB**. My professional experience includes developing core features for high-traffic platforms like **Sheqlee**, focusing on secure APIs and complex data modeling.
+I'm a **Full-Stack Developer** and 5th-year IT student at Mekelle Institute of Technology (MIT). While my expertise is rooted in building scalable backend systems, I have expanded into building complete, high-performance web applications. I specialize in the **MERN** stack and am currently leveraging **NestJS** to build enterprise-grade, modular architectures.
 
 ---
 
 ## 💻 Tech Stack
 
 ### Backend
-- 🟨 **JavaScript (Node.js)** – Professional API development
-- 🚀 **Express.js** – Advanced REST API design
-- 🍃 **MongoDB** – Data modeling and optimization
+- 🦁 **NestJS** – Modular architecture and scalable server-side logic
+- 🟨 **Node.js & Express.js** – Professional RESTful API design
+- 🍃 **MongoDB** – Advanced data modeling and optimization
 
 ### Frontend
-- ⚛️ **React.js** – Building responsive user interfaces
+- ⚛️ **React.js** – Building responsive, state-driven user interfaces
+- 🎨 **Tailwind CSS** – Modern and clean UI/UX design
 
 ### Others
 - 🐍 Python | ☕ Java | 🎯 Dart
@@ -20,34 +21,37 @@ I'm a **Backend Developer** and 5th-year IT student at Mekelle Institute of Tech
 
 ---
 
-## 🔧 Backend Core Skills & Concepts
+## 🔧 Core Skills & Concepts
 
-- ✅ **RESTful API Design** – Scalable and well-documented endpoints
-- 🔒 **Security** – Authentication, Authorization (JWT), and role-based access control
-- 📦 **Database Architecture** – Schema validation and efficient indexing in MongoDB
-- 🚀 **Middleware Logic** – Custom Express middleware for logging and error handling
-- 📂 **Architecture** – Clean MVC (Model-View-Controller) design patterns
-- 🔄 **Async Programming** – High-performance logic using Async/Await
+- 🔄 **Full-Stack Integration** – Connecting complex NestJS/Express backends with React frontends.
+- ✅ **RESTful & Real-time APIs** – Designing scalable endpoints and WebSocket communication.
+- 🔒 **Security** – Advanced Authentication (JWT), Authorization, and Role-Based Access Control (RBAC).
+- 📂 **Architecture** – Deep understanding of **MVC** and **Modular Design** patterns.
+- 🚀 **Performance** – High-concurrency logic using Async/Await and efficient database indexing.
 
 ---
 
-## 🚀 Featured Professional Project
+## 🚀 Featured Projects
+
+### [🔗 Real-Time Chat App](https://github.com/hadushtsigabu)
+**Full-Stack Developer**
+- **Tech**: NestJS, React, Socket.io, MongoDB.
+- **Key Features**: Real-time messaging, user presence tracking, and secure chat rooms.
+- **Architecture**: Utilizing NestJS modules for a clean, maintainable backend structure.
 
 ### [🔗 Sheqlee Platform](https://sheqlee.com)
+**Professional Backend Developer**
+- **Core Contributions**: Developed backend architecture to support Ethiopia’s premier freelance marketplace.
+- **Search & Filtering**: Implemented advanced `ApiFeatures` for complex searching and job specifications.
+- **Data Integrity**: Managed MongoDB schemas for diverse user roles (Freelancers, Companies, Admins).
 
- **Professional Backend Developer**
-- **Core Contributions**: Developed backend architecture to support Ethiopia’s premier freelance and job marketplace.
-- **Search & Filtering**: Implemented advanced `ApiFeatures` to allow complex searching by company, category, and job specifications.
-- **Data Integrity**: Managed MongoDB schemas for diverse user roles, including freelancers, companies, and administrators.
-- **Impact**: Enhanced the platform's ability to connect skilled professionals with affordable project opportunities.
+### [🔗 Xpert Money Transfer](https://xpertsmoneytransfer.netlify.app/)
+**Full-Stack Project**
+- A digital money transfer platform featuring secure transaction processing and role-based access. Built with **Node.js**, **Express**, and **React**.
 
 ---
 
 ## 🧪 Other Projects
-
-### [🔗 Xpert Money Transfer](https://xpertsmoneytransfer.netlify.app/)
-> **Full-Stack Project**
-> A digital money transfer platform featuring secure transaction processing and role-based access. Built with **Node.js**, **Express**, and **React**.
 
 ### [🔗 LearnGeez](https://github.com/hadushtsigabu)
 > **Educational Platform**
