@@ -61,9 +61,10 @@ I'm a **Full-Stack Developer** and 5th-year IT student at Mekelle Institute of T
 
 ## 📫 Let's Connect
 
+- **LinkedIn**: [linkedin.com/in/hadush-tsigabu](https://www.linkedin.com/in/hadush-tsigabu-a18a843aa)
 - **Email**: Hadushtsigabu11@gmail.com
 - **Location**: Mekelle, Ethiopia
-- **GitHub**: https://github.com/hadushtsigabu
+- **GitHub**: [github.com/hadushtsigabu](https://github.com/hadushtsigabu)
 
 ---
 
