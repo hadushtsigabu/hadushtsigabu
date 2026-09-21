@@ -117,7 +117,7 @@ A real-time communication application built around WebSocket-based communication
 
 ## 🧪 Other Projects
 
-### 💰 [Xpert Money Transfer](https://xpertsmoneytransfer.netlify.app/)
+### 💰 Xpert Money Transfer
 
 > **Digital Finance Platform**
 
@@ -125,8 +125,7 @@ A digital money transfer application featuring secure transaction simulation and
 
 - **Tech:** Node.js, Express.js, React
 - **Features:** Transaction simulation, authentication, role-based access, and responsive UI.
-
----
+- **Live Application:** https://xpertsmoneytransfer.netlify.app/
 
 ### 📚 [LearnGeez](https://github.com/hadushtsigabu)
 
